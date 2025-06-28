@@ -145,5 +145,5 @@ EMAIL_PORT=587
 
 EMAIL_USE_TLS=True
 
-EMAIL_HOST_USER='jayesh2004mishra@gmail.com'
-EMAIL_HOST_PASSWORD='tluj kkzb uvmz wltx'
+EMAIL_HOST_USER='######'
+EMAIL_HOST_PASSWORD='######'
